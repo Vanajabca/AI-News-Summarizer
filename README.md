@@ -108,6 +108,9 @@ toi-news-reader/
 
 ⚡ Optimize performance with caching and better error handling.
 
+🧑‍💻 Author
+
+Developed by: Vanaja S
 📄 License
 
 MIT License © 2025 Vanaja S.
